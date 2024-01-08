@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827586256804",
+    "project_id": "rick-and-morty-cb4ba",
+    "storage_bucket": "rick-and-morty-cb4ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827586256804:android:6e540c639b4416224eab31",
+        "android_client_info": {
+          "package_name": "com.example.rick_and_morty_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJy-tHG-isrFUZA0LomfXDeXAj9DoRPNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
